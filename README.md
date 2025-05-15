@@ -16,7 +16,8 @@
 | 2025.05.11  | 완주하지 못한 선수        | 2025_0511_incomplete_runner.py      | Lv.1   | 정렬, zip, 비교                         |
 | 2025.05.11  | 같은 숫자는 싫어          | 2025_0511_no_duplicate_sequence.py  | Lv.1   | 리스트 반복, 조건 비교, 연속 제거       |
 | 2025.05.11  | 전화번호 목록             | 2025_0511_phone_prefix_check.py     | Lv.2   | 해시, startswith(), 중복 탐지           |
-
+| 2025.05.15  | K번째 수                  | 2025_0515_kth_number.py             | Lv.1   | 리스트 슬라이싱, 정렬, 인덱싱          |
+| 2025.05.15  | 문자열 내 마음대로 정렬하기 | 2025_0515_string_custom_sort.py     | Lv.1   | 문자열, 정렬 기준, lambda               |
 
 ---
 
